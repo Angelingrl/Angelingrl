@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Angelingrl
-- 👀 I’m interested in design
-- 🌱 I’m currently learning shopify
-- 💞️ I’m looking to collaborate on shopify store building
+- 👀 I’m interested in IT Infrastructure
+- 🌱 I’m currently learning computing cloud
 - 📫 You can email me at ealegre369@gmail.com
 
 <!---
